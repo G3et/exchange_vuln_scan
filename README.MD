@@ -39,13 +39,3 @@ python3 exchange_vuln_scan.py -f url.txt
 
 
 
-![image-20230426105335080](image/image-20230426105335080.png)
-
-
-
-![image-20230426134909035](image/image-20230426134909035.png)
-
-
-
-![image-20230426104833275](image/image-20230426104833275.png)
-
