@@ -27,7 +27,7 @@
 # ⭐用法：
 
 ```
-git clone https://gitee.com/G3et/exchange_vuln_scan.git
+git clone https://github.com/G3et/exchange_vuln_scan.git
 cd exchange_vuln_scan
 pip install -r requirements.txt
 python3 exchange_vuln_scan.py -f url.txt
